@@ -1,4 +1,4 @@
-# TO RUN : python -m streamlit run C:/Users/charm/OneDrive/Desktop/app.py
+
 #TO RUN THIS CODE : streamlit run d:/OneDrive/Desktop/app.py
 
 # import pandas lib as pd
